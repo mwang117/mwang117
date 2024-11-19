@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Wang Michel
 - 👀 I’m interested in several subjects : Programation | Video Games | Sport | Cooking 
-- 🌱 I’m currently learning Java / javaFX / Python / HTML / CSS / C / SQL ... in UIT
+- 🌱 I’m currently learning TypeScript ... in UIT
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me > michel.wang@etu.unilim.fr
 - ⚡ Fun fact: ...
